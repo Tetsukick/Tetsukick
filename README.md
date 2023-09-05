@@ -2,6 +2,8 @@
 I'm Japanese mobile application developer lives in Indonesia.<br>I have 4 years experience in Flutter, 3years experience in Swift.<br><br>I've published total 11 owned application.<br>And also have the 1 owned blog media.<br><br>I am the founder of https://jogjalanjalan.com<br>
 <br>I've published the e-book about Flutter (https://zenn.dev/tetsukick/books/06ee607e30e243)<br>
 
+other portfolio link: https://linktr.ee/TeppeiKikuchi
+
 # 📱My Products
 ## BINTANGO
 The mobile application for learning Indonesian language.
